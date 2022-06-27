@@ -23,7 +23,7 @@ Work experience
   * Research in the construction and innovation sector
 
 * Oct18 - Nov19: Tax intern, Naturgy Ban
-  * tax assistant 
+  * Tax assistant 
  
 Academic experience
 ======
