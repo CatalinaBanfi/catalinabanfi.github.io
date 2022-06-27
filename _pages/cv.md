@@ -14,6 +14,8 @@ Educación
 * B.S. in Economics, Buenos Aires University (2016 - 2021)
 * M.S. in Economics, San Andres University (in progress)
 
+hrl "https://latfem.org/cuanto-cuesta-comer-en-argentina/"
+
 Experiencia laboral
 ======
 * Jun20 - Jul20: Analista Junior, Ministerio de Economía 
