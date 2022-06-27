@@ -9,33 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educación
 ======
 * B.S. in Economics, Buenos Aires University (2016 - 2021)
 * M.S. in Economics, San Andres University (in progress)
 
-Work experience
+Experiencia laboral
 ======
-* Jun20 - Jul20: Junior Analyst, Ministry of economics
-  * Secretariat of macroeconomic policies, external, monetary and financial area
+* Jun20 - Jul20: Analista Junior, Ministerio de Economía 
+  * Subsecretaría de políticas macroeconómicas, área externo - financiero 
+  
+* Jul20 - May21: Research Assistant, Consultora 3T  
+  * Investigación sobre innovaciones en el sector de la construcción
 
-* Jul20 - May21: Research Assistant, 3T economic consultancy 
-  * Research in the construction and innovation sector
-
-* Oct18 - Nov19: Tax intern, Naturgy Ban
-  * Tax assistant 
+* Oct18 - Nov19: Pasante de impuestos, Naturgy Ban
+  * Ausiliar de impuestos 
  
-Academic experience
+Experiencia académica
 ======
 * Teaching Assistant
-  * Microeconomics II (UBA)
-  * Industrial Organization (UBA) 
-* Research Fellow, IIEP
-  * Research projects on networks of productive sectors and growth
- 
+  * Microeconomia II (UBA)
+  * Organización Industrial (UBA) 
   
+* Becaria de investigación PROPAI, IIEP ' BAIRES
+  * Asistente de investigación de Gabriel Montes Rojas
 
-Skills
+Habilidades
 ======
 * R, LaTeX and Power BI
 * Microsoft Office (Word, Excel, Power point)
