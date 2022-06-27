@@ -4,7 +4,7 @@ title: "Notas e Informes"
 permalink: /notas/
 author_profile: true
 redirect_from:
-  - /notas
+  - /resume
 ---
 
 {% include base_path %}
