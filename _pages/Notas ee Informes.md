@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Notas e informes"
-permalink: /Notas e Informes/
+permalink: /notas/
 author_profile: true
 redirect_from:
   - /resume
