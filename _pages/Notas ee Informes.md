@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Notas e informes"
 permalink: /publications/
 author_profile: true
 redirect_from:
