@@ -7,7 +7,7 @@ collection: publications
 #venue: 'Journal 1'
 paperurl: 'https://latfem.org/cuanto-cuesta-comer-en-argentina/'
  
-citation: 'Banfi, Catalina (2021, Agosto). ¿Cuánto cuesta comer en Argentina? LATFEM; <i>Journal 1</i>. 1(3).'
+citation: 'Banfi, Catalina (2021, Agosto). ¿Cuánto cuesta comer en Argentina?; <i>LATFEM</i>.'
 ---
 
 
