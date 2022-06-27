@@ -25,7 +25,15 @@ Work experience
 * Oct18 - Nov19: Tax intern, Naturgy Ban
   * tax assistant 
  
-  
+Skills academic work
+ =====
+ * Teaching Assistant
+  * Microeconomics II (UBA)
+  * Industrial Organization (UBA) 
+* Research Fellow, IIEP
+  *Research projects on networks of productive sectors and growth
+
+
 Skills
 ======
 * R, LaTeX and Power BI
