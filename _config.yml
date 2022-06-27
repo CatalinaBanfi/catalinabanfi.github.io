@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Catalina Banfi"
 title_separator          : "-"
 name                     : &name "Catalina Banfi"
-description              : &description "Economist"
+description              : &description "Economista"
 url                      : https://catalinabanfi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "CatalinaBanfi/catalinabanfi.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Catalina Banfi"
   avatar           : "imagen1.jpg"
-  bio              : "Economist graduated from the University of Buenos Aires and currently doing a master in economics at the University of San Andres."
+  bio              : "Economista recibida de la Universidad de Buenos Aires, actualmente cursando un máster en economía en la Universidad de San Andrés."
   location         : "Buenos Aires"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "catalina-banfi/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
