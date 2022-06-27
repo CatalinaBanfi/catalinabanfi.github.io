@@ -27,12 +27,13 @@ Work experience
  
 Academic experience
 ======
- * Teaching Assistant
+* Teaching Assistant
   * Microeconomics II (UBA)
   * Industrial Organization (UBA) 
 * Research Fellow, IIEP
-  *Research projects on networks of productive sectors and growth
-
+  * Research projects on networks of productive sectors and growth
+ 
+  
 
 Skills
 ======
