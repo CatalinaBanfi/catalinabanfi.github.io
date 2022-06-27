@@ -2,7 +2,7 @@
 title: "Organización industrial"
 collection: teaching
 type: "Undergraduate course"
-permalink: [/teaching/2014-spring-teaching-1](https://sites.google.com/view/iouba4/home)
+permalink: https://sites.google.com/view/iouba4/home
 venue: "Universidad de Buenos Aires"
 #date: 2014-01-01
 #location: "City, Country"
@@ -10,11 +10,4 @@ venue: "Universidad de Buenos Aires"
 
 #This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
