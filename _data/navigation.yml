@@ -7,7 +7,7 @@ main:
   - title: "Notas e informes"
     url: /notas/
     
-  - title: "Docencia"
+  - title: "Asistente de docencia"
     url: /docencia/
 
   #- title: "Talks"
