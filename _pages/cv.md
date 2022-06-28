@@ -12,7 +12,7 @@ redirect_from:
 Formación acédemica
 ======
 * Magister en Economía, Universidad de San Andres (En progreso)
-* Licenciada en Economía, Buenos Aires University (2021)
+* Licenciada en Economía, Universidad de Buenos Aires (2021)
 
 
 
