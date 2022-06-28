@@ -8,7 +8,7 @@ main:
     url: /notas/
     
   - title: "Docencia"
-    url:/docencia/
+    url: /docencia/
 
   #- title: "Talks"
     #url: /talks/    
