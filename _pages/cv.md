@@ -9,22 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Educación
+Formación acédemica
 ======
-* B.S. in Economics, Buenos Aires University (2016 - 2021)
-* M.S. in Economics, San Andres University (in progress)
+* Magister en Economía, Universidad de San Andres (En progreso)
+* Licenciada en Economía, Buenos Aires University (2021)
+
 
 
 Experiencia laboral
 ======
-* Jun20 - Jul20: Analista Junior, Ministerio de Economía 
-  * Subsecretaría de políticas macroeconómicas, área externo - financiero 
+* Jun 20 - Mar 20: Analista Junior, Ministerio de Economía 
+  * Subsecretaría de Programación Macroeconómica, sector MFCI (monetario, financiero, cambiario internacional)
   
-* Jul20 - May21: Research Assistant, Consultora 3T  
-  * Investigación sobre innovaciones en el sector de la construcción
+* Jul 20 - May 21: Research Assistant, Consultora 3T  
+  * Investigación sobre innovaciones en el sector de la construcción y confección de informes de coyuntura
 
-* Oct18 - Nov19: Pasante de impuestos, Naturgy Ban
-  * Ausiliar de impuestos 
+* Oct 18 - Nov 19: Pasante de impuestos, Naturgy Ban
+  * Ausxliar de impuestos 
  
 Experiencia académica
 ======
@@ -37,7 +38,7 @@ Experiencia académica
 
 Habilidades
 ======
-* R, LaTeX and Power BI
+* R, LaTeX y Power BI
 * Microsoft Office (Word, Excel, Power point)
 
    
