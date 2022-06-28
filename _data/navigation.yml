@@ -1,7 +1,14 @@
 # main links links
 main:
+
+  - title: "CV"
+    url: /cv/
+    
   - title: "Notas e informes"
     url: /notas/
+    
+  - title: "Docencia"
+    url:/docencia/
 
   #- title: "Talks"
     #url: /talks/    
@@ -15,8 +22,6 @@ main:
   #- title: "Blog Posts"
     #url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
     
    #- title: "Notas e Informes"
     #url: /notas/
