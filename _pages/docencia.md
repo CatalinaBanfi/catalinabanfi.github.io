@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Asistente de docencia"
+#title: "Asistente de docencia"
 permalink: /docencia/
 author_profile: true
 redirect_from:
