@@ -25,7 +25,7 @@ Experiencia laboral
   * Investigación sobre innovaciones en el sector de la construcción y confección de informes de coyuntura
 
 * Oct 18 - Nov 19: Pasante de impuestos, Naturgy Ban
-  * Ausxliar de impuestos 
+  * Auxiliar de impuestos 
  
 Experiencia académica
 ======
