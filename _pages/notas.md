@@ -11,9 +11,8 @@ redirect_from:
 
 [¿Cuánto cuesta comer en Argentina?](https://latfem.org/cuanto-cuesta-comer-en-argentina/)
 ======
-12-08-21 Nota periodística para LatFem. 
+Nota periodística para LatFem. 
 
-[LatFem]
 
 [Encuesta BIM: América Latina y el Caribe 2020](https://publications.iadb.org/publications/spanish/document/Encuesta-BIM-America-Latina-y-el-Caribe-2020.pdf)
 ======
