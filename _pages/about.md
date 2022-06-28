@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bienvenidos-as!"
+title: "Bienvenidos/as!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
