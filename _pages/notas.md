@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Artículos/informes"
+#title: "Artículos/informes"
 permalink: /notas/
 author_profile: true
 redirect_from:
