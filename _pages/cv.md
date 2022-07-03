@@ -14,8 +14,6 @@ Formación académica
 * Magister en Economía, Universidad de San Andres (En progreso)
 * Licenciada en Economía, Universidad de Buenos Aires (2021)
 
-
-
 Experiencia laboral
 ======
 * Jun 20 - Mar 20: Analista Junior, Ministerio de Economía 
@@ -29,16 +27,18 @@ Experiencia laboral
  
 Experiencia académica
 ======
-* Teaching Assistant
+* Asistente de docencia
   * Microeconomia II (UBA)
   * Organización Industrial (UBA) 
   
-* Becaria de investigación PROPAI, IIEP ' BAIRES
+* Becaria de investigación PROPAI, IIEP - BAIRES
   * Asistente de investigación de Gabriel Montes Rojas
 
 Habilidades
 ======
-* R, LaTeX y Power BI
-* Microsoft Office (Word, Excel, Power point)
+  * Microsoft Office Avanzado (Word, Excel, Power point)
+  * LaTeX avanzado
+  * R intermedio
+  * Power BI básico
 
    
