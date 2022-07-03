@@ -17,7 +17,7 @@ Educación
 Experiencia laboral
 ======
 * Analista Junior, Ministerio de Economía (Jun 20 - Mar 20)  
-  * Subsecretaría de Programación Macroeconómica, sector MFCI (monetario, financiero, cambiario e internacional)
+  * Subsecretaría de Programación Macroeconómica, área MFCI (monetario, financiero, cambiario e internacional)
   
 * Research Assistant, Consultora 3T  (Jun 20 - May 21)
   * Investigaciones sobre innovaciones en el sector de la construcción 
@@ -35,7 +35,7 @@ Experiencia académica
   * Microeconomia II (UBA)
   * Organización Industrial (UBA) 
   
-* Becaria de investigación PROPAI, IIEP - BAIRES
+* Becaria de investigación PROPAI, IIEP - BAIRES (Dic 20 - Abr - 22) 
   * Asistente de investigación de Gabriel Montes Rojas
 
 Habilidades
