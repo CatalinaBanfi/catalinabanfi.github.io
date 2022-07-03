@@ -16,4 +16,4 @@ Organización industrial
 
 Microeconomía II
 ======
-* 2021 - presente. --> [Google Site](https://sites.google.com/view/iouba4/home](https://sites.google.com/view/micro22021) 
+* 2021 - presente. --> [Google Site](https://sites.google.com/view/micro22021) 
