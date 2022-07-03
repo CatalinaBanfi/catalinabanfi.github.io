@@ -9,20 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Formación académica
+Educación
 ======
 * Magister en Economía, Universidad de San Andres (En progreso)
 * Licenciada en Economía, Universidad de Buenos Aires (2021)
 
 Experiencia laboral
 ======
-* Jun 20 - Mar 20: Analista Junior, Ministerio de Economía 
-  * Subsecretaría de Programación Macroeconómica, sector MFCI (monetario, financiero, cambiario internacional)
+* Analista Junior, Ministerio de Economía (Jun 20 - Mar 20)  
+  * Subsecretaría de Programación Macroeconómica, sector MFCI (monetario, financiero, cambiario e internacional)
   
-* Jul 20 - May 21: Research Assistant, Consultora 3T  
-  * Investigación sobre innovaciones en el sector de la construcción y confección de informes de coyuntura
+* Research Assistant, Consultora 3T  (Jun 20 - May 21)
+  * Investigaciones sobre innovaciones en el sector de la construcción 
+  * Confección de informes de coyuntura
 
-* Oct 18 - Nov 19: Pasante de impuestos, Naturgy Ban
+* Valet parking, Lake Tahoe Resort Hotel (Dic 19 - Mar 20)
+  * Visa de intercambio en California, Estados Unidos  
+
+* Pasante de impuestos, Naturgy Ban (Oct 18 - Nov 19)
   * Auxiliar de impuestos 
  
 Experiencia académica
